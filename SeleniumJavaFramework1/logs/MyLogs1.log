@@ -1,0 +1,13 @@
+[INFO ] 2020-04-22 17:35:29.563 [main] Log4jDemo - This is information message
+[ERROR] 2020-04-22 17:35:29.568 [main] Log4jDemo - This is an error message
+[WARN ] 2020-04-22 17:35:29.568 [main] Log4jDemo - This is a warning message
+[FATAL] 2020-04-22 17:35:29.569 [main] Log4jDemo - This is a fatal message
+[INFO ] 2020-04-22 17:36:19.869 [main] Log4jDemo - This is information message
+[ERROR] 2020-04-22 17:36:19.870 [main] Log4jDemo - This is an error message
+[WARN ] 2020-04-22 17:36:19.871 [main] Log4jDemo - This is a warning message
+[FATAL] 2020-04-22 17:36:19.871 [main] Log4jDemo - This is a fatal message
+[TRACE] 2020-04-22 17:37:43.709 [main] Log4jDemo - This is trace message
+[INFO ] 2020-04-22 17:37:43.714 [main] Log4jDemo - This is information message
+[ERROR] 2020-04-22 17:37:43.714 [main] Log4jDemo - This is an error message
+[WARN ] 2020-04-22 17:37:43.714 [main] Log4jDemo - This is a warning message
+[FATAL] 2020-04-22 17:37:43.715 [main] Log4jDemo - This is a fatal message

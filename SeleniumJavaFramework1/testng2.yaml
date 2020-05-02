@@ -1,0 +1,9 @@
+name: Suite
+configFailurePolicy: skip
+listeners:
+  - listeners.TestNGListeners
+tests:
+  - name: Test
+    xmlPackages:
+    - name: listeners
+
